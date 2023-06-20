@@ -1,1 +1,1 @@
-# HW_Parse
+# Домашнее задание к лекции «Web-scrapping»
